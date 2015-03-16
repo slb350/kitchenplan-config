@@ -50,11 +50,7 @@ attributes:
             - mongodb
             - elasticsearch
         cask_apps:
-            - imageoptim
-            - imagealpha
             - phpstorm
-            - sequel-pro
-            - sourcetree
     nodejs:
         apps:
             - uglify-js

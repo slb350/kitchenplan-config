@@ -66,7 +66,7 @@ attributes:
     dotfiles:
         vimusers:
             - root
-            - sbrandon
+            - steve
         kdeploy:
             hostname: dev
         vim:
@@ -80,13 +80,13 @@ attributes:
                 - vim-css-color: https://github.com/ap/vim-css-color
     git:
         name: Stephen Brandon
-        email: brandon.steve@gmail.com
+        email: steve@sparkcentral.com	
     osxdefaults:
-        computername: steve-imatchative
+        computername: steve-spark
     authorization:
         sudo:
             users:
-                - sbrandon
+                - steve
             passwordless: true
             include_sudoers_d: true
     homebrewalt:
