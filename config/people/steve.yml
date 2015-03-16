@@ -103,9 +103,5 @@ attributes:
             - vlc
             - handbrake
             - flashlight
-            - couleurs
-            - vagrant-manager
-            - cord
             - vagrant
             - virtualbox
-            - superduper
