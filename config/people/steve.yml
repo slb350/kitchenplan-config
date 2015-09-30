@@ -79,9 +79,9 @@ attributes:
                 - vim-css-color: https://github.com/ap/vim-css-color
     git:
         name: Stephen Brandon
-        email: steve@sparkcentral.com	
+        email: brandon.steve@gmail.com
     osxdefaults:
-        computername: steve-spark
+        computername: stephenbrandon
     authorization:
         sudo:
             users:
@@ -92,13 +92,9 @@ attributes:
         cask_apps:
             - things
             - dropbox
-            - evernote
             - totalfinder
             - bartender
-            - hazel
-            - sonos
             - caffeine
-            - tower
             - vlc
             - handbrake
             - flashlight

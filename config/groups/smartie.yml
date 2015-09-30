@@ -2,8 +2,6 @@ recipes:
     global:
         - applications::kms
 attributes:
-    postfix:
-        domain: "sparkcentral.com"
     homebrewalt:
         cask_apps:
             - slack

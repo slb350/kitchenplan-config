@@ -4,9 +4,6 @@ recipes:
         - applications::ssh_config
         - dotfiles::vim
         - dotfiles::workspace
-        - applications::mysql
-        - applications::php56
-        - applications::skylab
     mac_os_x:
         - applications::sublime_text_3
         - applications::gnu-tar
@@ -34,7 +31,6 @@ recipes:
         - osxdefaults::finder_search_the_current_folder_by_default
         - osxdefaults::finder_unhide_home
 attributes:
-    mysql_root_password: "password"
     homebrewalt:
         apps:
             - git
@@ -47,10 +43,6 @@ attributes:
             - siege
             - watch
             - rsync
-            - mongodb
-            - elasticsearch
-        cask_apps:
-            - phpstorm
     nodejs:
         apps:
             - uglify-js
@@ -64,6 +56,3 @@ attributes:
         - kstrano
         - deliver
         - crafter
-    php-apps:
-        - composer
-        - php56-mongo
