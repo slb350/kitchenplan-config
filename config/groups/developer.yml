@@ -5,7 +5,6 @@ recipes:
         - dotfiles::vim
         - dotfiles::workspace
     mac_os_x:
-        - applications::sublime_text_3
         - applications::gnu-tar
         - osxdefaults::set_terminal_profile
         - osxdefaults::add_a_context_menu_item_for_showing_the_web_inspector_in_web_views
