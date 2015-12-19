@@ -1,16 +1,6 @@
 groups:
     - bash
     - developer
-attributes:
-    sublime_text_packages:
-        -
-            name: SideBarEnhancements
-            source: https://github.com/titoBouzout/SideBarEnhancements
-            branch: st3
-        -
-            name: GitGutter
-            source: https://github.com/jisaacks/GitGutter.git
-            branch: master
     dotfiles:
         vimusers:
             - root
