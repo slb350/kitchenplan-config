@@ -1,7 +1,3 @@
 recipes:
     global:
         - applications::kms
-attributes:
-    homebrewalt:
-        cask_apps:
-            - slack
